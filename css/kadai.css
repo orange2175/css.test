@@ -1,5 +1,6 @@
 .gazou {position: absolute;
     text-align: right;
+    width: auto;
     top: 200px;
     left: 400px;
 }
